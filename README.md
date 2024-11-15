@@ -17,10 +17,10 @@ This project is a simple and interactive task management application built with 
 - Node.js and npm installed on your machine.
 
 ### setup
-npm create vite@latest
-select React 
-select Javascript 
-Then setup tailwind css 
+- npm create vite@latest
+- select React 
+- select Javascript 
+- Then setup tailwind css 
 
 -------
 
@@ -34,13 +34,14 @@ Then setup tailwind css
 
 ## screenshots 
 
+
+  ![main view](https://github.com/user-attachments/assets/6d2272f2-e544-4585-ba12-18e734d94ec5)
+   
   ![add task](https://github.com/user-attachments/assets/6a3a1b76-8637-4b63-81da-c597365054f7)
 
   ![completed task](https://github.com/user-attachments/assets/887073ec-79cb-4f6f-b293-e63c9862eea4)
 
-  ![main view](https://github.com/user-attachments/assets/6d2272f2-e544-4585-ba12-18e734d94ec5) 
-
-  ![search](https://github.com/user-attachments/assets/e20c624e-f81b-43b9-bfdc-27cc10dacbb9)
+   ![search](https://github.com/user-attachments/assets/e20c624e-f81b-43b9-bfdc-27cc10dacbb9)
 
   
 
