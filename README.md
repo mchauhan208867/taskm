@@ -12,7 +12,7 @@ This project is a simple and interactive task management application built with 
 - **UI Animations**: Smooth animations for adding and removing tasks.
 
 ---
-# The setup and Launch process
+## The setup and Launch process
 ### Prerequisites
 - Node.js and npm installed on your machine.
 
@@ -24,7 +24,7 @@ This project is a simple and interactive task management application built with 
 
 -------
 
-# Assumptions Made During Development
+## Assumptions Made During Development
 - **Priority Levels**: Only three priority levels are supported (High, Medium, and Low). Tasks are sorted in descending order of priority by default.
 - **Task Persistence**: Tasks are persisted using local storage, so they are available even after the page is refreshed.
 - **User Interface**: The design is focused on simplicity, with minimalistic styling using Tailwind CSS and basic animations for a smooth user experience.
