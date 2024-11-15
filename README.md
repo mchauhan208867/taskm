@@ -36,12 +36,16 @@ This project is a simple and interactive task management application built with 
 
 
   ![main view](https://github.com/user-attachments/assets/6d2272f2-e544-4585-ba12-18e734d94ec5)
+  <br><br>
    
   ![add task](https://github.com/user-attachments/assets/6a3a1b76-8637-4b63-81da-c597365054f7)
-
+  <br><br>
+  
   ![completed task](https://github.com/user-attachments/assets/887073ec-79cb-4f6f-b293-e63c9862eea4)
+  <br><br>
 
    ![search](https://github.com/user-attachments/assets/e20c624e-f81b-43b9-bfdc-27cc10dacbb9)
+   
 
   
 
